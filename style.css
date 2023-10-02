@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#img {
+
+  height: 280px;
+  width: 600px;
+}
+
+#wordDomContainer {
+  display: inline-block;
+  background-color: beige;
+}
+
+td {
+  border: 2px solid black;
+  width: 15px;
+}
+
+#button {
+  display: inline-block;
+}
+
